@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "0602015214e1d7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "99cd2d64a45f6453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8fb2a9446f5514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interfaces and Cables 10-27-2026"
+            }
+          },
+          {
+            "id": "84e420e12960ebc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Notes/TCP IP Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP IP Model"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d980aaf833e6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "73da0eba1aedf67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32dc254962e619e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad9bb904bca14904",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7a58089ae6ae277",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f09311d0c2505e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5caf375ae579fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20eeff7dfc0d9177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6220b1150e268f02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0ad0b1003e615b35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "851c2da49b04786b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60b668da545b8201",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "32dc254962e619e2",
+  "lastOpenFiles": [
+    "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+    "Obsidian Vault/Notes/TCP IP Model.md",
+    "Obsidian Vault/Images/Pasted image 20261022193150.png",
+    "Obsidian Vault/Images/Pasted image 20261022193144.png",
+    "Obsidian Vault/Images/Pasted image 20261022193122.png",
+    "Obsidian Vault/Images/Pasted image 20261022192526.png",
+    "Obsidian Vault/Notes/Network Devices 9-15-2026.md",
+    "Obsidian Vault/Images/Pasted image 20261017214727.png",
+    "Obsidian Vault/Images/Pasted image 20261017214256.png",
+    "Obsidian Vault/Images/Pasted image 20261017213947.png",
+    "Obsidian Vault/Images/Pasted image 20261017213449.png",
+    "Obsidian Vault/Images/Pasted image 20261017211723.png",
+    "Obsidian Vault/Images/Pasted image 20261017211358.png"
+  ]
+}
