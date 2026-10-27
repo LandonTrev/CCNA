@@ -24,6 +24,7 @@ What is a byte?
 A byte is 8 bits. 
 
 **Speed is measured in bits pers second, not bytes per second.**
+
 <img src="../Images/Pasted%20image%2020261017204320.png" width="445">
 
 
