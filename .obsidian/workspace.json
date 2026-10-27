@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+                "file": "Obsidian Vault/Roadmap/CCNA 200-301 v1.1 Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces and Cables 10-27-2026"
+              "title": "CCNA 200-301 v1.1 Roadmap"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "TCP IP Model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f09311d0c2505e6d",
@@ -203,7 +202,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "32dc254962e619e2",
+  "active": "9c8fb2a9446f5514",
   "lastOpenFiles": [
     "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
     "Obsidian Vault/Notes/TCP IP Model.md",
