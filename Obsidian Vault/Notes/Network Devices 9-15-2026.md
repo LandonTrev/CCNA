@@ -5,7 +5,7 @@
 A computer network is a digital telecommunications network which allows nodes to share resources.
 ```
 
-![[Examples of Nodes.png]]
+![Examples of Nodes](Examples%20of%20Nodes.png)
 # Common Examples of Nodes
 
 - **Router**
@@ -16,29 +16,29 @@ A computer network is a digital telecommunications network which allows nodes to
 	- **Client**: A client is a device that accesses a service made available by a server.
 
 **Building a Network:** 
-![[Simple Network.png|345]]
+![345](Simple%20Network.png)
 This example features two nodes (CLIENTS) connected via a cable to communicate with one another and share resources. As simple as this example is, this represents a network.
 
 - In this case lets say PC1 requests an image from PC2. PC1 in this case would be the client while PC2 would be represented as the Server.
 
 **Another Example:**
 
-![[Pasted image 20260915180259.png|501]]
+![501](Pasted%20image%2020260915180259.png)
 # Switches
 
 Switches are used to forward traffic within a LAN (Local Area Network)
 
-![[Pasted image 20260915181202.png|497]]
+![497](Pasted%20image%2020260915181202.png)
 
 Switches can not communicate over the internet without a router or something to route with. They feature MAC addresses which are logged in a MAC Address table by looking at the source MAC address of each frame that arrives and recording which port it came in on. (LAYER 2)
 
 **Some examples of CISCO switches:**
-![[Pasted image 20260915181555.png|453]]
+![453](Pasted%20image%2020260915181555.png)
 
 # Routers
 **How routers aid in routing local traffic from clients and servers connected to a switch over the internet**.
 - Routers are used to provide connectivity between LAN's
-![[Pasted image 20260915181715.png|452]]
+![452](Pasted%20image%2020260915181715.png)
 Examples:
 CISCO ISR
 
@@ -61,18 +61,18 @@ Host-based Firewalls:
 	Software applications that filter traffic entering and exiting a host machine, like a desktop or PC. Almost all PC's have a standard software firewall even those in networks with network firewalls.
 
 # Quiz:
-![[Pasted image 20260915185435.png]]
+![Pasted image 20260915185435](Pasted%20image%2020260915185435.png)
 The network device appropriate here would be a networking switch which allows endpoints and end hosts to communicate locally by forwarding traffic over a LAN. These End Points/Clients/Servers would plug into a **networking switch** but with the amount of 30 PC's you may need two 24 port switches or a larger 48 port switch. A router wouldn't be used here because routers connect separate networks rather than end hosts within a LAN
 
-![[Pasted image 20260915191252.png]]
+![Pasted image 20260915191252](Pasted%20image%2020260915191252.png)
 In this situation the friends phone that sent the message to my personal phone using airdrop would represent a server. Lets first recall what a server is; a server is a device that provides services or functions for clients. Our device, the one receiving the image is the client. A client by definition is a device that accesses services hosted by a server. 
 
 **Example in my ESXI Home Lab:** 
 The domain controller in VLAN 10 would be defined as a server as it offers many services to its clients such as dhcp, dns, and domain services like active directory. The clients on vlan20 or client01 would be a client of the DC01.
 
-![[Pasted image 20260915192426.png]]
+![Pasted image 20260915192426](Pasted%20image%2020260915192426.png)
 My computer is acting as a client while YouTube is acting as the server. My computer is receiving a service from YouTube servers therefore it is functioning as a client. 
 
-![[Pasted image 20260915192726.png]]
+![Pasted image 20260915192726](Pasted%20image%2020260915192726.png)
 
 A router would be the appropriate device. Switches are used to connect hosts within the same LAN, but routers are what connect two separate networks together such as two department LANS located in different locations or something like the company network and the internet.

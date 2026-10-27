@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99cd2d64a45f6453",
+        "id": "9e40f11edf3e01fc",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8fb2a9446f5514",
+            "id": "66fa288e1d3e5595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Roadmap/CCNA 200-301 v1.1 Roadmap.md",
+                "file": "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCNA 200-301 v1.1 Roadmap"
-            }
-          },
-          {
-            "id": "84e420e12960ebc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Notes/TCP IP Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP IP Model"
+              "title": "Interfaces and Cables 10-27-2026"
             }
           }
         ]
@@ -70,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.8333435058594
   },
   "right": {
     "id": "f09311d0c2505e6d",
@@ -202,10 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c8fb2a9446f5514",
+  "active": "66fa288e1d3e5595",
   "lastOpenFiles": [
-    "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Obsidian Vault/Roadmap/CCNA 200-301 v1.1 Roadmap.md",
+    "Untitled.base",
     "Obsidian Vault/Notes/TCP IP Model.md",
+    "Obsidian Vault/Notes/Interfaces and Cables 10-27-2026.md",
     "Obsidian Vault/Images/Pasted image 20261022193150.png",
     "Obsidian Vault/Images/Pasted image 20261022193144.png",
     "Obsidian Vault/Images/Pasted image 20261022193122.png",

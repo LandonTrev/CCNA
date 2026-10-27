@@ -1,1 +1,7 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "root",
+  "newFileFolderPath": "Obsidian Vault/Images",
+  "attachmentFolderPath": "Obsidian Vault/Images"
+}

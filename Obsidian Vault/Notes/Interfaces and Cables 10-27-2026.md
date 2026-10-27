@@ -3,7 +3,7 @@ Front of a Switch. Each port is an interface.
 What do the words above it mean: 10/100/1000Base-T Ports Ports are Auto-MDIX
 
 ### Interfaces
-![[Pasted image 20261017203322.png|298]]
+![298](Pasted%20image%2020261017203322.png)
 
 RJ-45 Ports (RJ = Registered Jack)
 
@@ -24,14 +24,14 @@ What is a byte?
 A byte is 8 bits. 
 
 **Speed is measured in bits pers second, not bytes per second.**
-![[Pasted image 20261017204320.png|445]]
+![445](Pasted%20image%2020261017204320.png)
 
 
 ### Ethernet standards
 Defined in the IEEE 802.3 standard in 1983
 IEEE = Institute of Electrical and Electronics Engineers.
 
-![[Pasted image 20261017204521.png|622]]
+![622](Pasted%20image%2020261017204521.png)
 
 
 Copper cables are **UTP Cables** (Unshielded, Twisted, Pair)
@@ -43,7 +43,7 @@ Copper cables are **UTP Cables** (Unshielded, Twisted, Pair)
 
 8 pins in the RJ45 port. 
 
-![[Pasted image 20261017205211.png|453]]
+![453](Pasted%20image%2020261017205211.png)
 
 
 PC's and routers transmit (Tx) data on pins 1 and 2
@@ -79,9 +79,9 @@ The copper UPT cables use separate wires within the cable to transmit and receiv
 
 Fiber uses separate cables to transmit and receive data.
 
-![[Pasted image 20261017211358.png|422]]
+![422](Pasted%20image%2020261017211358.png)
 
-![[Pasted image 20261017211723.png]]
+![Pasted image 20261017211723](Pasted%20image%2020261017211723.png)
 
 - **Multimode fiber:** wider core, many angles (“modes”), LED transmitters. It’s cheaper and reaches farther than UTP, but not as far as single-mode.
 - **Single-mode fiber:** narrow core, one angle, laser transmitters. It’s the most expensive option and reaches the farthest.
@@ -89,21 +89,21 @@ Fiber uses separate cables to transmit and receive data.
 ### QUIZ
 
 
-![[Pasted image 20261017213449.png]]
+![Pasted image 20261017213449](Pasted%20image%2020261017213449.png)
 
 The problem here is older routers without AUTO MDIX cannot be connected using a UTP cable. Routers send or transmit data on pins 1 and 2 while they receive on 3 and 6. Since both ends would be expecting to transmit and receive on the same pins they would not be able to communicate. So in this sense something called a crossover cable might have to be used to connect each router together.
 
 
-![[Pasted image 20261017213947.png]]
+![Pasted image 20261017213947](Pasted%20image%2020261017213947.png)
 
 Since they are 150 meters apart this completely removes UTP cables from the situation as by ethernet standard 100 meters is the max. Although single mode fiber supports distances over 150 meters if they want to keep costs down multi-node fiber would be appropriate in this case.
 
 
-![[Pasted image 20261017214256.png]]
+![Pasted image 20261017214256](Pasted%20image%2020261017214256.png)
 
 They have to use single mode fiber as multi mode fiber does not support distances of 3 km.
 
-![[Pasted image 20261017214727.png]]
+![Pasted image 20261017214727](Pasted%20image%2020261017214727.png)
 
 A. Because of the AUTO-MDIX.
 
